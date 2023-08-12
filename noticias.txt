@@ -1,0 +1,12 @@
+Hola Ada para cuando nos reunamos estuve investigando sobre el tema de flask ya que es un micro Framework que podemos
+utilizar lo cual es mucho mas sencillo para utilizar y no es tan complejo como nos mostro Vladimir 
+
+con respeto del uso de las apis estuve buscando uno que tenga relacion a las peliculas lo cual este me llamo
+la atencion: https://www.themoviedb.org/
+
+lo que mas me llamos la atencion es la utlizacion sobre la api del sisetma que me da informacion a continuacion:
+https://developer.themoviedb.org/docs
+
+
+tambien ingagando encontre este sitio que contiene una lista extensa de apis Gratuitas que podemos tomar unas 
+como referencias: https://ciberninjas.com/apis-gratuitas/
