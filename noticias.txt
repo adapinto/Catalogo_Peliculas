@@ -10,3 +10,12 @@ https://developer.themoviedb.org/docs
 
 tambien ingagando encontre este sitio que contiene una lista extensa de apis Gratuitas que podemos tomar unas 
 como referencias: https://ciberninjas.com/apis-gratuitas/
+
+ACTUALIZADO (20/08/2023): se creo el entorno virtual 
+
+<<<<<<< HEAD
+Para prepara los nuevos cambios usen -> git add .
+Para realizar el commit -> git commit -m 'mensaje'
+Para mandar los cambios al repositorio --> git push
+Para traer los nuevos cambios --> git pull
+=======
